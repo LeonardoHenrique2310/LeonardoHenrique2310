@@ -1,5 +1,10 @@
 ### Olá meu nome é Leonardo Gabriel, melhor dizendo Leo 👋
 
+um pouco sobre mim:
+🌎 Sou de Mirassol - SP
+👨‍🎓 Graduando de Ciências da computação (7/8) - UNIP 
+🧠 Front-end Dev e UX/UI designer
+
 <!--
 **LeonardoHenrique2310/LeonardoHenrique2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
