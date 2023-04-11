@@ -5,7 +5,7 @@
 - 👨‍🎓 Graduando de Ciências da computação (7/8) - UNIP 
 - 🧠 Front-end Dev e UX/UI designer
 
-## Tecnologias que utilizo no dia a dia:
+Tecnologias que utilizo no dia a dia:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
