@@ -1,6 +1,6 @@
 ### Olá meu nome é Leonardo Gabriel, melhor dizendo Leo 👋
 
-um pouco sobre mim:
+um pouco sobre mim:/br
 🌎 Sou de Mirassol - SP
 👨‍🎓 Graduando de Ciências da computação (7/8) - UNIP 
 🧠 Front-end Dev e UX/UI designer
