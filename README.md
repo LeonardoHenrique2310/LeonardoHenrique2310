@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 - 🌎 Sou de Mirassol - SP
-- 👨‍🎓 Graduando de Ciências da computação (7/8) - UNIP 
+- 👨‍🎓 Graduando de Ciências da computação (8/8) - UNIP 
 - 🧠 Front-end Dev e UX/UI designer
 
 
