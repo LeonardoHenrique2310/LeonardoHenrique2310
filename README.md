@@ -2,9 +2,8 @@
 
 ## Sobre mim:
 - 🌎 Sou de Mirassol - SP
-- 👨‍🎓 Graduando de Ciências da computação (8/8) - UNIP 
-- 🧠 Front-end Dev e UX/UI designer
-
+- 👨‍🎓 Graduado em Ciências da computação - UNIP 
+- 🧠 Fullstack Developer (Angular e React)
 
 Tecnologias que utilizo no dia a dia:
 <div style="display: inline-block"><br>
@@ -14,8 +13,8 @@ Tecnologias que utilizo no dia a dia:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
 
